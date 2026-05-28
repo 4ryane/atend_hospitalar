@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Aryane",
+        "prioridade": 1,
+        "sintoma": "febre",
+        "idade": 34
+    },
+    {
+        "id": 2,
+        "nome": "Manuela",
+        "prioridade": 1,
+        "sintoma": "Dor de barriga e Diarreia",
+        "idade": 18
+    },
+    {
+        "id": 3,
+        "nome": "Alan",
+        "prioridade": 2,
+        "sintoma": "Dor de cabeça",
+        "idade": 23
+    }
+]
